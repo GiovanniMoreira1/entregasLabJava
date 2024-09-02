@@ -4,10 +4,7 @@
  */
 package com.mycompany.lab04exe01;
 
-/**
- *
- * @author unifgimoreira
- */
+/* @author Giovanni Moreira */
 public class Estudante {
     private String nome, sobrenome, identificador;
     private static int proximoId = 0;
